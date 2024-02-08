@@ -34,9 +34,9 @@ namespace WinFormsApp1
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(112, 47);
+            this.button1.Location = new System.Drawing.Point(446, 146);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(134, 163);
+            this.button1.Size = new System.Drawing.Size(75, 64);
             this.button1.TabIndex = 0;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
